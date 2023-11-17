@@ -1,2 +1,3 @@
 ini adalah file2
 baris ini diedit dari main repository
+baris ini ditambahkan dari local repository
